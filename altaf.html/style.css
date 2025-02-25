@@ -1,0 +1,89 @@
+body{
+    background-color:#bf9b42 ;
+}
+.product{
+    display:flex;
+    color: black;
+}
+.logo{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #033631;
+}
+a{
+    margin-right: 10px;
+    margin-top: 32px;
+
+}
+.clothsec1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.cloth{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.img{
+    height: 300px;
+    width: 300px;
+    background-image: url(images1-removebg-preview.png);
+    background-size: cover;
+}
+.jeans{
+    height: 300px;
+    width: 300px;
+    background-image: url(jeans-removebg-preview.png);
+    background-size: cover;
+}
+.chadda{
+    height: 300px;
+    width: 300px;
+    background-image: url(chadda-removebg-preview.png);
+    background-size: cover;
+}
+.shirtt{
+    height: 300px;
+    width: 300px;
+    background-image: url(shirt1-removebg-preview.png);
+    background-size: cover;
+}
+.clothsec2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.accessories{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.shoes{
+    height: 300px;
+    width: 300px;
+    background-image: url(shoes-removebg-preview.png);
+    background-size: cover;
+}
+.sunglass{
+    height: 300px;
+    width: 300px;
+    background-image: url(sunglass-removebg-preview.png);
+    background-size: cover;
+}
+.toy{
+    height: 300px;
+    width: 300px;
+    background-image: url(toy-removebg-preview.png);
+    background-size: cover;
+}
+.mac{
+    height: 300px;
+    width: 300px;
+    background-image: url(mac-removebg-preview.png);
+    background-size: cover;
+}
